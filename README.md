@@ -1,6 +1,6 @@
-# 📊 Telecom Customer Churn Prediction
+# 📊 Telecom Customer Churn Analysis
 
-A machine learning project focused on predicting customer churn in the telecom sector. The goal is to identify customers who are likely to leave, allowing the company to take proactive retention measures.
+A Telecom Industry Analysis project focused on customer churn in the telecom sector. The goal is to identify customers who are likely to leave, allowing the company to take proactive retention measures.
 
 > 🚧 **Project Status:** _In Progress_  
 > SQL data integration and Power BI dashboard development are pending.
