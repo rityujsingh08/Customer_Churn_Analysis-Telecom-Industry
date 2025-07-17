@@ -9,8 +9,7 @@ A machine learning project focused on predicting customer churn in the telecom s
 
 ## 🧠 Skills & Tools
 
-- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, XGBoost
-- **Machine Learning:** Supervised Learning, Classification Models, Feature Engineering
+- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 - **EDA & Visualization:** Correlation heatmaps, distribution plots, customer behavior trends
 - **Upcoming:** SQL (for data sourcing), Power BI (for dashboard creation)
 
