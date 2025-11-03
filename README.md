@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Prediction
 
-- Predicting customer churn is a crucial task for telecom companies seeking to retain their users and reduce customer attrition. This project explores, analyzes, and builds machine learning models to predict whether a customer is likely to churn based on their service usage and demographic data.
+- Predicting customer churn is a crucial task for telecom companies seeking to retain their users and reduce customer attrition. This project explores, analyzes, and builds insight to predict whether a customer is likely to churn based on their service usage and demographic data.
 
 # 🚀 Project Overview
 
